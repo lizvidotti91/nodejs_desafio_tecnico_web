@@ -1,7 +1,5 @@
 # Desafio Técnico Backend Estágio
 
-[TOC]
-
 ### Objetivo
 
 Criar uma API RPC para facilitar o gerenciamento de uma fila de pessoas
