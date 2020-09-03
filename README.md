@@ -30,7 +30,7 @@ Criar uma API RPC para facilitar o gerenciamento de uma fila de pessoas
 
 ### Exemplos de requisições
 
-Método: POST
+#### Método: POST
 
 URL: http://localhost:3000/createUser
 
@@ -42,11 +42,11 @@ Body:
 "genero": "generodousuario"
 }
 
-Método: GET
+#### Método: GET
 
 URL: http://localhost:3000/showUSer
 
-Método: POST
+#### Método: POST
 
 URL: http://localhost:3000/addToLine
 Body
@@ -55,7 +55,7 @@ Body
 "id": iddousuario
 }
 
-Método: POST
+#### Método: POST
 
 URL: http://localhost:3000/findPosition
 
@@ -63,11 +63,11 @@ URL: http://localhost:3000/findPosition
 "email": "email@usuario.com"
 }
 
-Método: GET
+#### Método: GET
 
 URL: http://localhost:3000/showLine
 
-Método: POST
+#### Método: POST
 
 URL: http://localhost:3000/filterLine
 
@@ -75,11 +75,11 @@ URL: http://localhost:3000/filterLine
 "genero": "generodousuario"
 }
 
-Método: POST
+#### Método: POST
 
 URL: http://localhost:3000/popLine
 
-Método: POST
+#### Método: POST
 
 URL: http://localhost:3000/deleteUser
 
