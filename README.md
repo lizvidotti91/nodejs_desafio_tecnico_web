@@ -1,25 +1,25 @@
-#Desafio Técnico Backend Estágio
+# Desafio Técnico Backend Estágio
 
 [TOC]
 
-###Objetivo
+### Objetivo
 
 Criar uma API RPC para facilitar o gerenciamento de uma fila de pessoas
 
-###Tecnologias usadas
+### Tecnologias usadas
 
 -Noje.js
 -Express
 -Atlas Mongo DB
 -Mongoose
 
-###Referências usadas
+### Referências usadas
 
 [Construindo uma API com Node.js](https://woliveiras.com.br/posts/construindo-uma-api-com-node-js-parte-1-criando-e-listando-dados/)
 
 [Queue Project](https://github.com/rafaumlemos/queueproject)
 
-###Endpoints da API
+### Endpoints da API
 
 -   `/createUser` - Cadastra usuário;
 -   `/showUser` - Mostra todos os usuários cadastrados no banco;
@@ -30,7 +30,7 @@ Criar uma API RPC para facilitar o gerenciamento de uma fila de pessoas
 -   `/popLine` - Tira a pessoa na primeira posição da fila;
 -   `/deleteUser` - Tira a pessoa na primeira posição do banco de dados;
 
-###Exemplos de requisições
+### Exemplos de requisições
 
 Método: POST
 
@@ -85,7 +85,8 @@ Método: POST
 
 URL: http://localhost:3000/deleteUser
 
-**Autora | Author**
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
-<img src="./img/perfil.png" width="100px"> | Liz Vidotti | [Liz Vidotti](https://github.com/lizvidotti91) | [Linkedin](https://www.linkedin.com/in/elisetevidotti/) | liz.vidotti@gmail.com
+## Autora
+
+| Foto                                       | Nome        | GitHub                                         | Likedin                                                 | E-mail                |
+| ------------------------------------------ | ----------- | ---------------------------------------------- | ------------------------------------------------------- | --------------------- |
+| <img src="./img/perfil.png" width="100px"> | Liz Vidotti | [Liz Vidotti](https://github.com/lizvidotti91) | [Linkedin](https://www.linkedin.com/in/elisetevidotti/) | liz.vidotti@gmail.com |
